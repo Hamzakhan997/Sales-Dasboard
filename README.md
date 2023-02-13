@@ -20,3 +20,4 @@ Open the .pbix file in Power BI Desktop.
 Connect the dashboard to your data source.
 
 Customize the dashboard to meet your specific needs.
+![image](https://user-images.githubusercontent.com/98435615/218522199-509643b9-e4e2-4d06-9a12-d506a736b509.png)
